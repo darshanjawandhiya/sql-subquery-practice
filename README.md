@@ -42,6 +42,8 @@ This repository is your go-to resource for mastering SQL subqueries and expandin
 
 This repository includes SQL query solutions for all exercises, available in the accompanying SQL file. Use this resource to enhance your SQL skills and tackle real-world data querying challenges.
 
+**Note:** For the subquery basics questions, the datasets from the "movies" dataset and the "Zomato" dataset are used.
+
 ## Usage
 
 Clone this repository to your local machine to access the SQL queries and solutions. Happy querying!
