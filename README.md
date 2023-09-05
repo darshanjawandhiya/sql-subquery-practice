@@ -1,6 +1,6 @@
 # SQL Subqueries Practice
 
-This repository is your go-to resource for mastering SQL subqueries and expanding your querying skills. Explore a wide range of SQL subquery exercises and solutions, organized into various topics:
+This repository is your go-to resource for mastering SQL subqueries and expanding your querying skills. Remember: The subquery is executed first, and its result is then used as a parameter or condition for the outer query. Explore a wide range of SQL subquery exercises and solutions, organized into various topics:
 
 ## Topics Covered
 
